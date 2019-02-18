@@ -1,3 +1,4 @@
  - PWM control signals pull-downs
  - Bigger Bootstrap diodes?
  - Fix Current Sense Resistor Footprint
+ - Order correct footprint for D2, D3
