@@ -1,4 +1,9 @@
- - PWM control signals pull-downs
- - Bigger Bootstrap diodes?
- - Fix Current Sense Resistor Footprint
+ - buck layout too tight
  - Order correct footprint for D2, D3
+ - D2/D3 Much wider than space
+ - Vbat buck cap should be on top with others? C13
+ - C4/C11 Label
+ - Remove Thermal relief on wire-to-board pads?
+ - R2 too close to GND
+ - skinnier big cap pads
+ - R5-7 to top side?
