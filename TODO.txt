@@ -1,0 +1,2 @@
+- Polarity Dot for Daughter Board
+- Rotate Crystal footprint 90deg
